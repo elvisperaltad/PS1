@@ -1,1 +1,4 @@
 #READ ME
+
+#Running scripts is disabled on this system - command solution in PS1 as admin
+Set-ExecutionPolicy RemoteSigned
